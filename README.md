@@ -68,7 +68,7 @@
 - 熟练使用 javascript（ES6+），html，css（sass）
 - 熟练使用 React 全家桶(redux,react-router,immutableJS...)开发桌面和移动端 webApp
 - 熟练使用 Vue.js (vue-router)开发桌面和移动端 webApp
-- 熟练使用 ajax与后台进行交互
+- 熟练使用 ajax,fetch与后台进行交互
 - 熟练使用 webpack,npm,yarn 等构建，优化和打包工程
 - 熟练使用 Git 进行版本控制
 - 熟练使用 bootstrap，ant design，material-ui 等热门前端框架
